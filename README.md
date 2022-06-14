@@ -1,6 +1,6 @@
 # Robotic-Arm-Simulation
 
------------------------------------------------    Check Term_Paper.pdf for code and logic explanation    ----------------------------------------
+----------------------------------    Check Term_Paper.pdf for code and logic explanation    -------------------------------
 
 
 
