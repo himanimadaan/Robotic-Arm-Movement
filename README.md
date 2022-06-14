@@ -15,16 +15,20 @@ production rates.
 
 Pick and place robots are not only used in manufacturing but are also used in other applications
 some of which are listed below:
+
 ● Assembly – Pick and place robots used in assembly applications grab incoming parts
 from one location, such as a conveyor, and place or affix the part on another piece of the
 item. The two joined parts are then transported to the next assembly area.
+
 ● Packaging – Pick and place robots used in the packaging process grab items from an
 incoming source or designated area and place the items in a packaging container.
+
 ● Bin picking – Pick and place robots used in bin picking applications grab parts or items
 from bins. These pick and place robots typically have advanced vision systems allowing
 them to distinguish colour, shape and size to pick the right items even from bins
 containing randomly mixed items. These parts or items are then sent to another location
 for assembly or packaging.
+
 ● Inspection – Pick and place robots used for inspection applications are equipped with
 advanced vision systems to pick up objects, detect anomalies and remove defective
 parts or items by placing them in a designated location.
